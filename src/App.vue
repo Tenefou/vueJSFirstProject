@@ -13,7 +13,7 @@
   </body>
   <body v-else>
     <h1>Fin du questionnaire</h1>
-    <p>Vous avez {{ score }}/4</p>
+    <p>Vous avez {{ score }}/5</p>
   </body>
 </template>
 
